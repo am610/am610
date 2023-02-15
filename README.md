@@ -1,7 +1,6 @@
-### Hi there 👋
+### Welcome to Ayan Mitra's Github Page 😎
 
 
-**am610/am610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ayan.mitra@iucaa.in
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I was on the same plane with Monica Bellucci
--->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=ADD_THEME_HERE" width="400">
