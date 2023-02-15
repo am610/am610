@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
