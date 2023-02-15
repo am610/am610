@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=gruvbox_light" width="400">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/am610/github-readme-stats)
