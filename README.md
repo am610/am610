@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -  Ask me about Trot-Canter transition
 -  How to reach me: ayan.mitra@iucaa.in
 -  Pronouns: He/Him/His
--  Fun fact: I was on the same plane with Monica Bellucci<br><br>
+-  Fun fact: I was on the same plane with Monica Bellucci (Once) <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=gruvbox_light" width="400">
