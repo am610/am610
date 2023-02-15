@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ayan.mitra@iucaa.in
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I was on the same plane with Monica Bellucci
-<a href="https://youtu.be/S-9e1v_oMHQ" target="blank"><img align="center" src="https://ibb.co/3YVKSyN" height="100" /></a>
+
+
+- <a href="https://youtu.be/S-9e1v_oMHQ" target="blank"><img align="center" src="https://ibb.co/3YVKSyN" height="100" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=ADD_THEME_HERE" width="400">
