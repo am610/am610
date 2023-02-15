@@ -4,16 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LSST Time Domain Pipeline
-- 🌱 I’m currently learning advanced LSTMs
-- 👯 I’m looking to collaborate on ML + Cosmology
-- 🤔 I’m looking for help with Andriod vs Apple debates
-- 💬 Ask me about Trot-Canter transition
-- 📫 How to reach me: ayan.mitra@iucaa.in
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I was on the same plane with Monica Bellucci
+-  I’m currently working on LSST Time Domain Pipeline
+-  I’m currently learning advanced LSTMs
+-  I’m looking to collaborate on ML + Cosmology
+-  I’m looking for help with Andriod vs Apple debates
+-  Ask me about Trot-Canter transition
+-  How to reach me: ayan.mitra@iucaa.in
+-  Pronouns: He/Him/His
+-  Fun fact: I was on the same plane with Monica Bellucci<br><br>
 
-
-- <a href="https://youtu.be/S-9e1v_oMHQ" target="blank"><img align="center" src="https://ibb.co/3YVKSyN" height="100" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=ADD_THEME_HERE" width="400">
