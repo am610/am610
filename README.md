@@ -3,7 +3,7 @@
 <img style="height: 10%; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=blue-green" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=am610&theme=blue-green&langs_count=8&layout=compact" /></div></div>
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=am610&theme=blue-green&langs_count=8&layout=compact" /></div></div>
 
 ### Welcome to Ayan Mitra's Github Page 😎
 
