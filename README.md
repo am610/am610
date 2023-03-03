@@ -1,7 +1,9 @@
 [![20191130-203600.jpg](https://i.postimg.cc/bwvTSjsh/20191130-203600.jpg)](https://postimg.cc/KRdLCwPq)
-<img src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=gruvbox_light" width="350">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=am610&theme=gruvbox_light)](https://git.io/streak-stats)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=am610&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=am610&theme=blue-green&langs_count=8&layout=compact" /></div></div>
 
 ### Welcome to Ayan Mitra's Github Page 😎
 
