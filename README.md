@@ -7,7 +7,7 @@
 
 ### Welcome to Ayan Mitra's Github Page 😎
 
-Here are some ideas to get you started:
+Here are some current facts about me:
 -  I’m currently working on LSST Time Domain Pipeline
 -  I’m currently learning advanced LSTMs
 -  I’m looking to collaborate on ML + Cosmology
