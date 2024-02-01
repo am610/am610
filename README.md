@@ -11,7 +11,7 @@ Here are some current facts about me:
 -  I’m currently working on LSST Time Domain Pipeline
 -  I’m currently learning advanced LSTMs
 -  I’m looking to collaborate on ML + Cosmology
--  How to reach me: ayan.mitra@iucaa.in
+-  How to reach me: ayan@illinois.edu
 -  Pronouns: He/Him/His
 -  Website : https://caps.ncsa.illinois.edu/ayan-mitra/
 -  Fun fact: I was on the same plane with Monica Bellucci (Once) <br><br>
