@@ -13,7 +13,7 @@ Here are some current facts about me:
 -  I’m looking to collaborate on ML + Cosmology
 -  How to reach me: ayan.mitra@iucaa.in
 -  Pronouns: He/Him/His
--  Website under construction : https://am610.github.io/
+-  Website : https://caps.ncsa.illinois.edu/ayan-mitra/
 -  Fun fact: I was on the same plane with Monica Bellucci (Once) <br><br>
 
 
