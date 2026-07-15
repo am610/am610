@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://github.com/am610">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=LSST+DESC+Pipeline+scientist;Machine+Learning+%2B+Cosmology;Python+%7C+R+%7C+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=LSST+DESC+Pipeline+scientist;Machine+Learning+%2B+Cosmology;Python+%7C+BASH+%7C+C%23" alt="Typing SVG" />
   </a>
 </p>
 
 ### Welcome to Ayan Mitra's Github Page 😎
 
 Here are some current facts about me:
-- 🔭 I’m currently working on the **LSST Time Domain Pipeline**
-- 🧠 I’m currently learning advanced **LSTMs**
-- 🤝 I’m looking to collaborate on **ML + Cosmology**
-- ✉️ How to reach me: [ayan@illinois.edu](mailto:ayan@illinois.edu)
-- 🌐 Website: [caps.ncsa.illinois.edu/ayan-mitra/](https://caps.ncsa.illinois.edu/ayan-mitra/)
-- 🍿 Fun fact: I was on the same plane with Monica Bellucci (Only once sadly!)
+-  I’m currently working on the **LSST Time Domain Pipeline**
+-  I’m currently learning advanced **LSTMs**
+-  I’m looking to collaborate on **ML + Cosmology**
+-  How to reach me: [ayan@illinois.edu](mailto:ayan@illinois.edu)
+-  Website: [caps.ncsa.illinois.edu/ayan-mitra/](https://caps.ncsa.illinois.edu/ayan-mitra/)
+-  Fun fact: I was on the same plane with Monica Bellucci (Only once sadly!)
 
 ---
 
