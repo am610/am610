@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/am610">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=LSST+DESC+Pipeline+scientist;Machine+Learning, SNIa,Dark+Energy%2B+Cosmology;Python+%7C+BASH+%7C+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=LSST+DESC+Pipeline+scientist;Machine+Learning,+SNIa,+Dark+Energy+%2B+Cosmology;Python+%7C+BASH+%7C+C%23" alt="Typing SVG" />
   </a>
 </p>
 
