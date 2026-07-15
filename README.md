@@ -14,6 +14,7 @@ Here are some current facts about me:
 -  I’m looking to collaborate on **ML + Cosmology**
 -  How to reach me: [ayan@illinois.edu](mailto:ayan@illinois.edu)
 -  Website: [caps.ncsa.illinois.edu/ayan-mitra/](https://caps.ncsa.illinois.edu/ayan-mitra/)
+-  [Publication](https://ui.adsabs.harvard.edu/user/libraries/LiNzugQqT8O3JaIcS3XMeQ)
 -  Fun fact: I was on the same plane with Monica Bellucci (Only once sadly!)
 
 ---
