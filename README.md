@@ -46,7 +46,7 @@ vision, and probabilistic ML.
 
 ## Core skills
 
-**ML / DL:** PyTorch, TensorFlow, scikit-learn, uncertainty quantification (MC dropout, ensembles), simulation-based inference, normalising flows, CNNs, time-series classification
+**ML / DL:** PyTorch, TensorFlow, scikit-learn, uncertainty quantification (MC dropout, ensembles), genetic-algorithm hyperparameter optimization, simulation-based inference, normalising flows, CNNs, time-series classification
 **Scientific computing:** JAX, NumPyro, HPC / batch pipelines, SNANA, CosmoSIS, Firecrown
 **Engineering:** Python, Git, Docker, pytest, LaTeX, R, C#
 
