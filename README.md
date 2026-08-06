@@ -1,62 +1,57 @@
-[![20191130-203600.jpg](https://i.postimg.cc/bwvTSjsh/20191130-203600.jpg)](https://postimg.cc/KRdLCwPq)
-
 <p align="center">
   <a href="https://github.com/am610">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=LSST+DESC+Pipeline+Scientist;Machine+Learning,+SNIa,+Dark+Energy+%2B+Cosmology;Python+%7C+BASH+%7C+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Applied+ML+%2F+Scientific+ML+Researcher;Time-Series+ML+%C2%B7+Uncertainty+Quantification+%C2%B7+Simulation-Based+Inference;PyTorch+%7C+TensorFlow+%7C+JAX+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
-### Welcome to Ayan Mitra's Github Page 😎
+# Ayan Mitra
 
-Here are some current facts about me:
--  I’m currently working on the **LSST Time Domain Pipeline**
--  I’m currently learning advanced **LSTMs**
--  I’m looking to collaborate on **ML + Cosmology**
--  How to reach me: [ayan@illinois.edu](mailto:ayan@illinois.edu)
--  Website: [caps.ncsa.illinois.edu/ayan-mitra/](https://caps.ncsa.illinois.edu/ayan-mitra/)
--  [Publication](https://ui.adsabs.harvard.edu/user/libraries/LiNzugQqT8O3JaIcS3XMeQ)
--  Fun fact: I was on the same plane with Monica Bellucci (Only once sadly!)
+Applied machine-learning scientist and research software engineer. I build and evaluate neural
+models for noisy, high-dimensional scientific time series and imaging data — with a focus on
+**distribution shift, uncertainty quantification, and simulation-based inference** — and ship them
+as reproducible pipelines, not just notebooks.
+
+Background: PhD in astrophysics (supernova cosmology, LSST/DESC pipelines). Currently applying
+that research experience to general applied-ML problems: time-series classification, computer
+vision, and probabilistic ML.
+
+- 📄 Publications: [arXiv listing](https://arxiv.org/search/?searchtype=author&query=Mitra%2C+A) · [ADS library](https://ui.adsabs.harvard.edu/user/libraries/LiNzugQqT8O3JaIcS3XMeQ)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayan-mitra-supernova/)
+- ✉️ ayan@illinois.edu
+- 🔭 Currently: LSST Time-Domain Pipeline (NCSA / DESC), open to applied-ML / ML-engineering roles
 
 ---
 
-### 🛠️ Technologies & Skills
+## Flagship projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**GW-time-series-ml**](https://github.com/am610/GW_ML) *(consolidation in progress)* | 1D-CNN classification of nuclear equation-of-state from gravitational-wave time series; catalogue-held-out vs. random-split evaluation of distribution shift ([arXiv:2310.15649](https://arxiv.org/abs/2310.15649)) | PyTorch, NumPy, scikit-learn |
+| [**Firecrown_wrapper_TD**](https://github.com/am610/Firecrown_wrapper_TD) | Production-style Python pipeline orchestrating Firecrown + CosmoSIS for supernova time-domain cosmology inference — CLI, tests, SACC I/O, MIT-licensed | Python, pytest, SACC |
+| [**scone_tools**](https://github.com/am610/scone_tools) | Data-product and heatmap generation utilities supporting neural supernova classification (SCONE) | Python |
+| [**DeepFake**](https://github.com/am610/DeepFake) | End-to-end deep-learning video-classification pipeline (face extraction → Inception-ResNet-v2 classifier) — being audited for split leakage and video-level metrics | PyTorch/Keras, OpenCV, dlib |
+
+---
+
+## Selected publications (ML-relevant)
+
+- **[arXiv:2310.15649](https://arxiv.org/abs/2310.15649)** *(first author)* — 1D CNN classification of nuclear equation-of-state from core-collapse-supernova gravitational-wave time series; robustness across sampling rate, signal window, and physical nuisance parameters.
+- **[arXiv:2402.18124](https://arxiv.org/abs/2402.18124)** *(first author)* — Neural regression with genetic-algorithm hyperparameter search and Monte Carlo dropout for uncertainty-aware reconstruction of cosmological observables from simulated Rubin/LSST data.
+- **[arXiv:2409.14508](https://arxiv.org/abs/2409.14508)** — Benchmarked CNNs, RNNs, and six classical ML methods (random forest, SVM, XGBoost, etc.) on gravitational-wave time-series classification; quantified performance drop under simulation-domain mismatch.
+- **[arXiv:2603.11165](https://arxiv.org/abs/2603.11165)** — Simulation-based inference with conditional normalising flows + hierarchical Bayesian modelling to correct survey-selection effects in supernova cosmology (JAX / NumPyro).
+
+*(Full list: [arXiv search](https://arxiv.org/search/?searchtype=author&query=Mitra%2C+A))*
+
+---
+
+## Core skills
+
+**ML / DL:** PyTorch, TensorFlow, scikit-learn, uncertainty quantification (MC dropout, ensembles), simulation-based inference, normalising flows, CNNs, time-series classification
+**Scientific computing:** JAX, NumPyro, HPC / batch pipelines, SNANA, CosmoSIS, Firecrown
+**Engineering:** Python, Git, Docker, pytest, LaTeX, R, C#
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cs,tensorflow,pytorch,git,docker,latex,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,cs,docker,git,latex&theme=dark" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats & Streaks
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img height="170" src="https://github-stats-extended.vercel.app/api?username=am610&show_icons=true&theme=blue-green" />
-      </td>
-      <td width="50%" align="center">
-        <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=am610&theme=blue-green&langs_count=8&layout=compact" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/stats-organization/github-stats-extended">
-          <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=am610&layout=compact&theme=blue-green" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=am610&theme=react-dark" />
-      </td>
-    </tr>
-  </table>
-</div>
