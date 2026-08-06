@@ -36,7 +36,7 @@ vision, and probabilistic ML.
 ## Selected publications (ML-relevant)
 
 - **[arXiv:2310.15649](https://arxiv.org/abs/2310.15649)** *(first author)* — 1D CNN classification of nuclear equation-of-state from core-collapse-supernova gravitational-wave time series; robustness across sampling rate, signal window, and physical nuisance parameters.
-- **[arXiv:2402.18124](https://arxiv.org/abs/2402.18124)** *(first author)* — Neural regression with genetic-algorithm hyperparameter search and Monte Carlo dropout for uncertainty-aware reconstruction of cosmological observables from simulated Rubin/LSST data.
+- **[arXiv:2402.18124](https://arxiv.org/abs/2402.18124)** *(first author)* — Neural regression with genetic-algorithm hyperparameter search ([nnogada](https://github.com/am610/nnogada)) and Monte Carlo dropout for uncertainty-aware reconstruction of cosmological observables from simulated Rubin/LSST data.
 - **[arXiv:2409.14508](https://arxiv.org/abs/2409.14508)** — Benchmarked CNNs, RNNs, and six classical ML methods (random forest, SVM, XGBoost, etc.) on gravitational-wave time-series classification; quantified performance drop under simulation-domain mismatch.
 - **[arXiv:2603.11165](https://arxiv.org/abs/2603.11165)** — Simulation-based inference with conditional normalising flows + hierarchical Bayesian modelling to correct survey-selection effects in supernova cosmology (JAX / NumPyro).
 
