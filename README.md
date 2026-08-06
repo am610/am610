@@ -30,6 +30,8 @@ vision, and probabilistic ML.
 | [**Firecrown_wrapper_TD**](https://github.com/am610/Firecrown_wrapper_TD) | Production-style Python pipeline orchestrating Firecrown + CosmoSIS for supernova time-domain cosmology inference — CLI, tests, SACC I/O, MIT-licensed | Python, pytest, SACC |
 | [**scone_tools**](https://github.com/am610/scone_tools) | Data-product and heatmap generation utilities supporting neural supernova classification (SCONE) | Python |
 | [**DeepFake**](https://github.com/am610/DeepFake) | End-to-end deep-learning video-classification pipeline (face extraction → Inception-ResNet-v2 classifier) — being audited for split leakage and video-level metrics | PyTorch/Keras, OpenCV, dlib |
+| [**GW_ISIDRO**](https://github.com/am610/GW_ISIDRO) | Preprocessing/exploration of simulated GW time series (bandpass filtering, dataset prep) feeding directly into the EOS classifier above | Python, NumPy, SciPy |
+| [**nnogada**](https://github.com/am610/nnogada) *(fork, with I. Gómez-Vargas)* | Genetic-algorithm hyperparameter search used to train the uncertainty-aware neural regressor in my first-author dark-energy paper ([arXiv:2402.18124](https://arxiv.org/abs/2402.18124)) | Python, TensorFlow/PyTorch, DEAP |
 
 ---
 
