@@ -27,7 +27,6 @@ vision, and probabilistic ML.
 | Project | What it shows | Stack |
 |---|---|---|
 | [**GWCCSN_EOS_Ye**](https://github.com/am610/GWCCSN_EOS_Ye) 🟢 *(live demo)* | 1D-CNN classifying nuclear equation-of-state from gravitational-wave time series — real dataset included, `python train.py && python app.py` gets you a working local demo (86.5% held-out accuracy, honestly reported) ([arXiv:2310.15649](https://arxiv.org/abs/2310.15649)) | TensorFlow, scikit-learn, Gradio |
-| [**GW_ISIDRO**](https://github.com/am610/GW_ISIDRO) | Preprocessing/exploration of the same GW time series (bandpass filtering, dataset prep) feeding directly into the EOS classifier above | Python, NumPy, SciPy |
 | [**Firecrown_wrapper_TD**](https://github.com/am610/Firecrown_wrapper_TD) | Production-style Python pipeline orchestrating Firecrown + CosmoSIS for supernova time-domain cosmology inference — CLI, tests, SACC I/O, MIT-licensed | Python, pytest, SACC |
 | [**scone_tools**](https://github.com/am610/scone_tools) | Data-product and heatmap generation utilities supporting neural supernova classification (SCONE) | Python |
 | [**DeepFake**](https://github.com/am610/DeepFake) | End-to-end deep-learning video-classification pipeline (face extraction → Inception-ResNet-v2 classifier) — being audited for split leakage and video-level metrics | PyTorch/Keras, OpenCV, dlib |
