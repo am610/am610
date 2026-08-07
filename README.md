@@ -27,12 +27,7 @@ vision, and probabilistic ML.
 [**SNANA**](https://github.com/RickKessler/SNANA) is the supernova simulation, light-curve fitting,
 and time-domain analysis package used across the Rubin Observatory LSST Dark Energy Science
 Collaboration and prior DES/SDSS-era SN cosmology surveys — facility software, not a personal
-project, used and validated by a large external collaboration.
-
-I'm its **2nd-largest contributor by code volume**, both all-time and over the past year (behind
-only the lead maintainer, and ahead of the next contributor by ~3×), with **74 merged pull
-requests**. Numbers are pulled directly from GitHub's own contributor stats, linked below so
-they're independently checkable rather than just asserted.
+project, used and validated by a large external collaboration. I'm its **2nd-largest contributor by code volume**, 
 
 | | Lines changed (all-time) | Merged PRs | Rank |
 |---|---|---|---|
