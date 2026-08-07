@@ -22,6 +22,35 @@ vision, and probabilistic ML.
 
 ---
 
+## Major open-source contribution — SNANA
+
+[**SNANA**](https://github.com/RickKessler/SNANA) is the supernova simulation, light-curve fitting,
+and time-domain analysis package used across the Rubin Observatory LSST Dark Energy Science
+Collaboration and prior DES/SDSS-era SN cosmology surveys — facility software, not a personal
+project, used and validated by a large external collaboration.
+
+I'm its **2nd-largest contributor by code volume**, both all-time and over the past year (behind
+only the lead maintainer, and ahead of the next contributor by ~3×), with **74 merged pull
+requests**. Numbers are pulled directly from GitHub's own contributor stats, linked below so
+they're independently checkable rather than just asserted.
+
+| | Lines changed (all-time) | Merged PRs | Rank |
+|---|---|---|---|
+| **am610** | **181,032** | **74** | **#2 of 28 contributors** |
+| Lead maintainer (RickKessler) | 2,693,737 | — | #1 |
+| #3 contributor | 60,808 | — | #3 |
+
+Representative contributions:
+- Generalized spline-interpolation library, wired into photo-z quantile and log-mass-vs-redshift
+  estimation — [#1664](https://github.com/RickKessler/SNANA/pull/1664), [#1669](https://github.com/RickKessler/SNANA/pull/1669)
+- Data-driven host-galaxy weighting (`WGTMAP`) modes for simulation realism — [#1632](https://github.com/RickKessler/SNANA/pull/1632)
+- DiffSky host-galaxy catalog integration pipeline (magnitude joins, dedup, HDF5→pandas conversion) — [#1640](https://github.com/RickKessler/SNANA/pull/1640), [#1704](https://github.com/RickKessler/SNANA/pull/1704), [#1728](https://github.com/RickKessler/SNANA/pull/1728)
+- Core-collapse-supernova contamination prior implementation — [#1524](https://github.com/RickKessler/SNANA/pull/1524), [#1534](https://github.com/RickKessler/SNANA/pull/1534)
+
+[**Full contribution history →**](https://github.com/RickKessler/SNANA/pulls?q=is%3Apr+author%3Aam610) · [**Contributor graph →**](https://github.com/RickKessler/SNANA/graphs/contributors)
+
+---
+
 ## Flagship projects
 
 | Project | What it shows | Stack |
