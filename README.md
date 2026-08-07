@@ -33,7 +33,7 @@ project, used and validated by a large external collaboration. I'm its **2nd-lar
 |---|---|---|---|
 | **am610** | **181,032** | **74** | **#2 of 28 contributors** |
 | Lead maintainer (RickKessler) | 2,693,737 | — | #1 |
-| #3 contributor | 60,808 | — | #3 |
+
 
 Representative contributions:
 - Generalized spline-interpolation library, wired into photo-z quantile and log-mass-vs-redshift
